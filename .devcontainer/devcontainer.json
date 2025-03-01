@@ -1,0 +1,6 @@
+{
+  "name": "My METHOD",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
